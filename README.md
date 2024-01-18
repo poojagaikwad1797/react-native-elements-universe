@@ -1,6 +1,6 @@
 # React Native Elements Universe
 
-## Install VisionCamera from npm:
+### Install from npm:
 
 ```sh
 npm install invitra-react-native-elements-universe

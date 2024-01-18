@@ -1,6 +1,6 @@
 {
   "name": "invitra-react-native-elements-universe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Elements Next Gen Components",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
