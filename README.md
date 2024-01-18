@@ -1,2 +1,20 @@
-# react-native-elements-universe
-Cross Platform React Native UI toolkit
+# React Native Elements Universe
+
+## Install VisionCamera from npm:
+
+```sh
+npm install invitra-react-native-elements-universe
+cd ios && pod install
+```
+
+## Usage
+
+```sh
+
+import { CircularSlider } from 'react-native-elements-universe';
+
+<CircularSlider />;
+
+```
+
+## Thank You!!!
